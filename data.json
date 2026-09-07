@@ -21,15 +21,17 @@
     {
       "id": "r_sample2",
       "status": "wish",
-      "title": "해보고 싶은 게임",
+      "title": "[99 야간 숲]",
       "rating": null,
-      "tagline": "아직 안 해봤지만 궁금함",
-      "body": "",
+      "tagline": "그 유명한 살아남기 명작",
+      "body": "바다에서의 어쩌고는 해 봤는데\n멀티로 하지 않으면 영 루즈할 것 같아서 고민의 고민을 함 ",
       "tags": [
-        "호러"
+        "생존",
+        "서바이벌",
+        "공포"
       ],
-      "link": "",
-      "image": "",
+      "link": "https://www.roblox.com/ko/games/79546208627805/99-Nights-in-the-Forest",
+      "image": "https://raw.githubusercontent.com/ku1tan-max/10vey0u-xoxo-data/main/images/1788744119931_q7pvw4_noFilter.jpg",
       "date": "2026-09-05"
     }
   ],
