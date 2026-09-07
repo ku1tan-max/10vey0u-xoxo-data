@@ -1,0 +1,39 @@
+{
+  "siteSettings": {
+    "coverImage": ""
+  },
+  "reviews": [
+    {
+      "id": "r_sample1",
+      "status": "played",
+      "title": "샘플 게임 이름",
+      "rating": 4,
+      "tagline": "한 줄 평을 여기에 적어요",
+      "body": "여기에 자유롭게 후기를 길게 적을 수 있어요.\n줄바꿈도 그대로 반영됩니다.\n\n이 항목은 예시 데이터라 admin.html에서 지우거나 수정해도 됩니다.",
+      "tags": ["타이쿤", "힐링"],
+      "link": "https://www.roblox.com/games/0000000/",
+      "image": "",
+      "date": "2026-09-01"
+    },
+    {
+      "id": "r_sample2",
+      "status": "wish",
+      "title": "해보고 싶은 게임",
+      "rating": null,
+      "tagline": "아직 안 해봤지만 궁금함",
+      "body": "",
+      "tags": ["호러"],
+      "link": "",
+      "image": "",
+      "date": "2026-09-05"
+    }
+  ],
+  "characters": [
+    {
+      "id": "c_sample1",
+      "image": "",
+      "date": "2026-09-01",
+      "caption": "샘플 캐릭터 한줄소개"
+    }
+  ]
+}
