@@ -233,6 +233,13 @@
       "name": "비밀글",
       "message": "됨?",
       "date": "2026-09-09"
+    },
+    {
+      "id": "g_1788997941799_jobtip",
+      "name": "바나나",
+      "message": "바내나나나아아",
+      "secret": true,
+      "date": "2026-09-09"
     }
   ],
   "banners": [
