@@ -188,5 +188,13 @@
       "image": "https://raw.githubusercontent.com/ku1tan-max/10vey0u-xoxo-data/main/images/1788831786031_7tq2yq_images.jpg",
       "date": "2026-09-08"
     }
+  ],
+  "guestbook": [
+    {
+      "id": "g_1788937065524_731p51",
+      "name": "안녕하세요",
+      "message": "테스트하기",
+      "date": "2026-09-09"
+    }
   ]
 }
