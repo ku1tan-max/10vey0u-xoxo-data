@@ -196,5 +196,13 @@
       "message": "테스트하기",
       "date": "2026-09-09"
     }
+  ],
+  "banners": [
+    {
+      "id": "bn_1788937641625_544js",
+      "image": "https://raw.githubusercontent.com/ku1tan-max/10vey0u-xoxo-data/main/images/1788937635616_gk13mh_blinkiesCafe-GT.jpg",
+      "name": "",
+      "link": "https://lovers.naru.pub/"
+    }
   ]
 }
