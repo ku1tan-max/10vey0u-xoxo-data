@@ -250,6 +250,17 @@
       "body": "1. 섬네일에 뜨지 않는 글도 있다는 것을 인지하기 ,,\n2. 폰트가 먹히다가 먹히지 않다가 먹히다가\n3. 나도 배너 교환 하고 싶어\n3-1 그래서 배너 창을 만들었는데 사방에서 돌아다니고 있음!!!!!!!!!! 메인 페이지에서만 보이도록 교체 / 배너 보이는 레이아웃 래퍼런스 3개 받기 \n4. 예쁘고 편하고 보기 좋고 통일성 있는 UI란 무엇일까요? 흠터레스팅 \n5. 글이 꺼지고 켜질 때나 기타 등등 부드러워야 함 -> 왜냐면 홈페이지가 부들부들하니까 애니메이션 넣고\n6. 사진 올리고 드래그해서 썸네일에 어떻게 보일지 조정도 해야 할 듯 \n7. 일기를 전체 글 목록에 넣어도 될 것 같은데 음 아니면 블로그처럼 글 목록 누르면 상세 카테고리가 나오는 식으로 해도 ㄱㅊ을 듯 \n\n원래 이렇게까지 열심히 만들 생각은 없었는데 하루 종일 수정만 하는 게 부끄러워서 비공개로 돌림\n푸하하~ ",
       "image": "https://raw.githubusercontent.com/ku1tan-max/10vey0u-xoxo-data/main/images/1788937750583_ydn3r5_HRv4tvibEAASHET.jpg",
       "date": "2026-09-09"
+    },
+    {
+      "id": "d_1789104964624_ufgsa",
+      "title": "homepage",
+      "body": "MelonLand : https://melonland.net/\nin Web Graphics Catalogue\n\npixelsafari : https://pixelsafari.neocities.org/links/\nPixel",
+      "image": "https://raw.githubusercontent.com/ku1tan-max/10vey0u-xoxo-data/main/images/1789104920314_z18c6e_70carpet195.jpg",
+      "imageFocus": {
+        "x": 50,
+        "y": 50
+      },
+      "date": "2026-09-11"
     }
   ],
   "guestbook": [],
