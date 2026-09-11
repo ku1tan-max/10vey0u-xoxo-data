@@ -14,7 +14,13 @@
         "url": "https://blog.naver.com/3hampagnesupernova"
       }
     ],
-    "extra": ""
+    "extra": "",
+    "theme": {
+      "bg": "#160910",
+      "cardBg": "#1e1018",
+      "ink": "#F8EEF2",
+      "purple": "#ff6fa8"
+    }
   },
   "reviews": [
     {
