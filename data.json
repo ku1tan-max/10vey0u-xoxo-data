@@ -4,7 +4,12 @@
     "coverImageMode": "pattern",
     "profileImage": "https://raw.githubusercontent.com/ku1tan-max/10vey0u-xoxo-data/main/images/1788828174557_209zxx_KakaoTalk_20260907_114222460_04.jpg",
     "bio": "안녕하세요?\n저는 늙크크입니다\n로블록스 같이 하실 분",
-    "links": [],
+    "links": [
+      {
+        "label": "Roblox",
+        "url": "https://www.roblox.com/ko/users/11602747869/profile"
+      }
+    ],
     "extra": ""
   },
   "reviews": [
