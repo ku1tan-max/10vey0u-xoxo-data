@@ -20,7 +20,8 @@
       "cardBg": "#16131C",
       "ink": "#F1EEF7",
       "purple": "#A374FF"
-    }
+    },
+    "bgOpacity": null
   },
   "reviews": [
     {
@@ -208,6 +209,27 @@
         "y": 64
       },
       "date": "2026-09-11"
+    },
+    {
+      "id": "r_1789198770913_gcvuz",
+      "status": "played",
+      "title": "[Trend] Mount Lembaraya",
+      "rating": 4,
+      "tagline": "입문용 등산 게임",
+      "body": "등산 난이도 매우 쉬움 우리 집 고양이도 할 수 있을 듯\n예쁘고!!\n귀엽고\n할 수 있는 것도 생각보다 많음\n낚시랑 기타랑 춤 부스랑 이것저것 있어서 사진 찍으러 가도 좋고 놀러가도 좋을 듯 ",
+      "tags": [
+        "어드벤처",
+        "등산",
+        "여행",
+        "낚시"
+      ],
+      "link": "https://www.roblox.com/ko/games/120071400041462/Mount-Lembaraya",
+      "image": "https://raw.githubusercontent.com/ku1tan-max/10vey0u-xoxo-data/main/images/1789198710799_102idp_11602747869_120071400041462_178919811346.jpg",
+      "imageFocus": {
+        "x": 53,
+        "y": 75
+      },
+      "date": "2026-09-12"
     }
   ],
   "characters": [
