@@ -346,6 +346,26 @@
         "y": 50
       },
       "date": "2026-09-13"
+    },
+    {
+      "id": "r_1789429835197_jfmnu",
+      "status": "played",
+      "title": "[CHARACTER REHAUL] Kick an Uma",
+      "rating": 3,
+      "tagline": "우마무스메 수집 게임",
+      "body": "우마무스메 랜덤박스를 발로 차서 \n멀리 날릴 수록 더 좋은 우마무스메가 나오고\n그걸 전시하고 업그레이드해서 돈을 버는 게임\n근데 좋은 걸 뽑기 위해서는 \"킥 파워\"라는 걸 업그레이드 해야 하는데\n이건 돈을 쏟는 게 아니고 시간을 쏟아야 하는 거라 약간 번잡스럽다\n게임 자체는 그렇게 잘 만든 느낌은 아니고 그냥 우마뾰이 러버라 할 수 있는 그런 느낌\n마쨩사랑해~ ",
+      "tags": [
+        "수집",
+        "시뮬레이션",
+        "증분"
+      ],
+      "link": "https://www.roblox.com/ko/games/74968636725538/Kick-an-Uma",
+      "image": "https://raw.githubusercontent.com/ku1tan-max/10vey0u-xoxo-data/main/images/1789429736329_ztoxmc_KakaoTalk_20260915_084715057.jpg",
+      "imageFocus": {
+        "x": 51,
+        "y": 76
+      },
+      "date": "2026-09-14"
     }
   ],
   "characters": [
