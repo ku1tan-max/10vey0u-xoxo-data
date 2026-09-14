@@ -406,5 +406,12 @@
     }
   ],
   "guestbook": [],
-  "banners": []
+  "banners": [
+    {
+      "id": "bn_1789358654340_nx0ik",
+      "image": "https://raw.githubusercontent.com/ku1tan-max/10vey0u-xoxo-data/main/images/1789358637975_f4pkzn_IMG_6573.jpg",
+      "name": "lovers",
+      "link": "https://lovers.naru.pub/"
+    }
+  ]
 }
