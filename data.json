@@ -16,10 +16,10 @@
     ],
     "extra": "",
     "theme": {
-      "bg": "#160910",
-      "cardBg": "#1e1018",
-      "ink": "#F8EEF2",
-      "purple": "#ff6fa8"
+      "bg": "#0a0910",
+      "cardBg": "#16131c",
+      "ink": "#f1eef7",
+      "purple": "#2d1264"
     },
     "bgOpacity": null
   },
